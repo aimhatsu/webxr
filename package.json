@@ -12,6 +12,7 @@
   "author": "fernfalcnico",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.0.2",
     "three": "^0.125.1",
     "vue": "^2.6.12",
     "vue-router": "^3.5.1"
