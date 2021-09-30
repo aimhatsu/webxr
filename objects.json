@@ -1,15 +1,8 @@
 [
   {
-    "id": 1,
-    "name": "Doberman",
-    "scale": 0.2,
-    "image": "doberman/doberman.png",
-    "model": "/assets/models/doberman/doberman.glb"
-  },
-  {
     "id": 2,
     "name": "Aimbot",
-    "scale": 0.005,
+    "scale": 0.6,
     "image": "dinosaur/dinosaur.png",
     "model": "/assets/models/aimbot/aimbot.glb"
   }
