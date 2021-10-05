@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "name": "Aimbot",
+    "scale": 0.65,
+    "image": "dinosaur/dinosaur.png",
+    "model": "/assets/models/aimbot/aimbot.glb"
+  }
+]
